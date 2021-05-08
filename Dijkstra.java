@@ -1,4 +1,4 @@
-package ADA;
+package Ada;
 
 class Dijkstra { 
 	
