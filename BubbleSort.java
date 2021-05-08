@@ -1,4 +1,4 @@
-package com.ada.sorting;
+package Ada;
 
 import java.util.*;
 
